@@ -1,0 +1,433 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Page-1" id="MQO9njyLUL7ArXsQyHlx">
+    <mxGraphModel dx="1340" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pzknF2URaeMcYJWIp3Z--51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1700" width="250" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1440" width="250" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1194" width="231" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="890" width="262" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="310" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="40" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--2" value="&lt;b&gt;Interface d&#39;entrÃ©e&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="50" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--4" value="Bonjour, bienvenu sur &lt;b&gt;TchatPost&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vous etes interesse par :&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="90" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--5" value="1ï¸âƒ£&amp;nbsp;La crÃ©ation d&#39;Identifiant Postal&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&lt;/span&gt;&amp;nbsp;L&#39;envoi de Colis&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&lt;/span&gt;&amp;nbsp;La rÃ©ception de Colis&lt;/div&gt;&lt;div&gt;&lt;div&gt;4ï¸âƒ£ Autre&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;s services&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="132" width="206" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--8" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--11" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="88" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="260" width="349" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cas d&#39;Usage 1 : &lt;b style=&quot;&quot;&gt;CrÃ©ation d&#39;Identifiant Postal&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="276" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--14" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="373" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="685" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--16" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="323" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--17" value="1.&amp;nbsp;CrÃ©ation d&#39;Identifiant Postal&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="513" y="317" width="176" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--18" value="Pour mieux vous servir, choisissez votre profil :" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="368" width="221" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="pzknF2URaeMcYJWIp3Z--19" target="pzknF2URaeMcYJWIp3Z--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--19" value="&lt;div&gt;1ï¸âƒ£&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Particulier (envois occasionnels)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="408" width="241" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--20" value="&lt;div&gt;&lt;b&gt;1ï¸âƒ£&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Particulier (envois occasionnels)&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="233" y="500" width="211" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--21" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Professionnel/Entreprise&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="466" y="500" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--22" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ã‰tudiant&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="710" y="500" width="206" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.809;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pzknF2URaeMcYJWIp3Z--26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430.7900000000009" y="694.6799999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="553" />
+              <mxPoint x="430" y="687" />
+              <mxPoint x="431" y="687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--26" value="&lt;div&gt;1ï¸âƒ£ CrÃ©er son compte&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="233" y="544" width="127" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--31" value="&lt;div&gt;&lt;b&gt;1ï¸âƒ£&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CrÃ©er son compte&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="700" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--33" value="Pour crÃ©er son compte en tant que X, veillez entrer votre nom complet :" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="739" width="201.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--36" value="&lt;b&gt;2ï¸âƒ£&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;DÃ©couvrez les avantages&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="910" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--37" value="&lt;div&gt;**Avantages ImmÃ©diats :**&lt;/div&gt;&lt;div&gt;í ½í³¦ Suivi colis en temps rÃ©el&lt;/div&gt;&lt;div&gt;í ¼í¿ª iBox 24h/24 (casiers intelligents)&lt;/div&gt;&lt;div&gt;í ½í´” Notifications SMS + Email&lt;/div&gt;&lt;div&gt;í ½í»¡&amp;nbsp; RÃ©ception sÃ©curisÃ©e de documents officiels&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;í ½í²¡ **Bonus :** Premier envoi Ã  -20% pour les nouveaux inscrits !&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;PrÃªt Ã  crÃ©er votre identifiant ?&lt;/div&gt;&lt;div&gt;1ï¸âƒ£ O&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ui&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Expliquez-moi d&#39;abord les iBox&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£ Q&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;uels sont vos tarifs ?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531.5" y="949" width="221" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--38" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;3ï¸âƒ£ DÃ©couvrez l&#39;iBox&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="759" y="1210" width="201" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--40" value="&lt;div&gt;Le iBox est un system de....qui rÃ©volutionnent la rÃ©ception de colis&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;En savoir plus sur notre site : https://www.minpostal.com/ibox&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;En savoir plus sur l&#39;iBox ?&lt;/div&gt;&lt;div&gt;1ï¸âƒ£ Avantages de l&#39;iBox&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Liste des points iBox&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£ Non, crÃ©er mon compte identifiant&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1249" width="220" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--41" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4ï¸âƒ£&amp;nbsp;&lt;/span&gt;Quels sont les tarifs ?&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="992" y="1450" width="218" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--42" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½í²° Ã‰conomique (4-5j) - 1800 FCFA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;â­ Standard (2-3j) - 2500 FCFA&amp;nbsp;&lt;/div&gt;&lt;div&gt;âš¡ Express (24h) - 4000 FCFA&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Souhaitez-vous faire une envoi maintenant ?&lt;/div&gt;&lt;div&gt;1ï¸âƒ£ O&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ui&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Expliquez-moi d&#39;abord les iBox&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£ Non, creer mon compte d&#39;identifiant&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4ï¸âƒ£ Autres options&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="992" y="1489" width="228" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--43" value="&lt;b&gt;5ï¸âƒ£ Assistance enligne&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1710" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--44" value="&lt;div&gt;Vous ne parvenez pas a trouver ce qui vous interesse ?&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1ï¸âƒ£ Coser avec le personnel en ligne&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£ Prennez un rdv dans un bureaux&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1749" width="210" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--54" value="2ï¸âƒ£&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Professionnel/Entreprise&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="428" width="241" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.816;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="pzknF2URaeMcYJWIp3Z--55" target="pzknF2URaeMcYJWIp3Z--22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="871.1594556725544" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--55" value="3ï¸âƒ£&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Ã‰tudiant&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="448" width="71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="pzknF2URaeMcYJWIp3Z--54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="507" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="474" />
+              <mxPoint x="570" y="474" />
+              <mxPoint x="570" y="507" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.621;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pzknF2URaeMcYJWIp3Z--59" target="pzknF2URaeMcYJWIp3Z--47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="673" y="572" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--59" value="2ï¸âƒ£&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;DÃ©couvrez les avantages&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="233" y="563" width="167" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--60" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%222%EF%B8%8F%E2%83%A3%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20transparent%3B%26quot%3B%26gt%3BD%C3%A9couvrez%20les%20avantages%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2283%22%20y%3D%22543%22%20width%3D%22187%22%20height%3D%2219%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3ï¸âƒ£ DÃ©couvrez l&#39;iBox&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="233" y="582" width="117" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--61" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4ï¸âƒ£&amp;nbsp;&lt;/span&gt;Quels sont les tarifs ?&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="233" y="601" width="147" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzknF2URaeMcYJWIp3Z--62" target="pzknF2URaeMcYJWIp3Z--43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--62" value="5ï¸âƒ£ Assistance enligne&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="233" y="621" width="137" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.793;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pzknF2URaeMcYJWIp3Z--60" target="pzknF2URaeMcYJWIp3Z--49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pzknF2URaeMcYJWIp3Z--61" target="pzknF2URaeMcYJWIp3Z--50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--182" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="188" y="745" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--183" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="751" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--184" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="464" y="784" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--185" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="790" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--186" value="&lt;b&gt;Jean Marc&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392" y="785" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--189" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="816" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--190" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="187" y="822" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--191" value="Bien &lt;b&gt;Marc&lt;/b&gt;,&lt;br&gt;Quel est votre numero de telephone ?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="816" width="209.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--192" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="464" y="859" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--193" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="865" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--194" value="&lt;b&gt;+237 677 77 77 77&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="860" width="118" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--195" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="184.75" y="898" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--196" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="184.25" y="904" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--197" value="Quel est votre adrese email Marc ?&lt;div&gt;1ï¸âƒ£ Sauter&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207.75" y="898" width="209.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--199" value="&lt;b&gt;marc@abcd.com&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="941" width="105.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--203" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="940" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--204" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="463" y="946" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--205" value="Entrez en&lt;b&gt; MM-JJ-AAAA&lt;/b&gt; (mois-jour-annee) votre date de naissance :" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207.75" y="980" width="209.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--206" value="&lt;b&gt;06-26-2000&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="1023" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--207" value="Confirmez vous les informations suivant Marc?&lt;br&gt;&lt;br&gt;Nom: Jean Marc&lt;br&gt;Numero de telephone: +237 677 77 77&lt;div&gt;Adresse e-mail: marc@abcd.com&lt;/div&gt;&lt;div&gt;Date de Naissance: 06-26-2000&lt;br&gt;&lt;br&gt;1ï¸âƒ£ Oui&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Non&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1060" width="209.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--208" value="&lt;b&gt;1. Oui&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1221" width="46.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--209" value="&lt;b&gt;Bravo! Votre identitÃ© postale vient d&#39;Ãªtre crÃ©er.&lt;/b&gt;&lt;div&gt;Il a Ã©tÃ© envoyer Ã  votre adresse e-mail ainsi que par SMS Ã  votre numÃ©ro de tÃ©lÃ©phone.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Souhaitez-vous dÃ©couvrir vos tarifs ?&lt;/div&gt;&lt;div&gt;1ï¸âƒ£ O&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ui&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£ Non, retour au menu principal&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="1250" width="209.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--215" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="187" y="2380.5" width="310" height="2190" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--216" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153.5" y="2190" width="349" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--217" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cas d&#39;Usage 2 : &lt;b style=&quot;&quot;&gt;Envoi de Colis&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190.5" y="2200" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--220" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="2250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--221" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="2253" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--222" value="2. L&#39;envoi de colis" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="2247" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--232" value="Pour envoyer un colis, veillez vous identifier avec votre identifiant postale :" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="2435.5" width="209.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--253" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="195" y="2445.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--254" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="194.5" y="2451.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--255" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="471" y="2482.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--256" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="2488.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--257" value="&lt;b&gt;MARC6777706262000&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342" y="2484.5" width="128" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--258" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="194.5" y="2516.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--259" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="194" y="2522.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--260" value="Bien &lt;b&gt;Marc&lt;/b&gt;,&lt;br&gt;&lt;i&gt;Assistance Intelligente activÃ©e&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BasÃ© sur vos envois prÃ©cÃ©dents, voici une recommandation :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½í³ &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Trajet habituel&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; : Douala â†’ YaoundÃ©&lt;/span&gt;&lt;/div&gt;&lt;div&gt;í ½í³¦ &lt;b&gt;Type colis&lt;/b&gt;: VÃªtements&lt;/div&gt;&lt;div&gt;âš–&amp;nbsp; &amp;nbsp;&lt;b&gt;Poids moyen &lt;/b&gt;: 1-3 kg&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;í ½í±¤&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;ID Destinataire&lt;/b&gt;&amp;nbsp;: MARIE69990226200&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;C&#39;est pour un envoi similaire ?&lt;/div&gt;&lt;div&gt;1ï¸âƒ£&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Oui, exactement pareil&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Similaire mais avec modifications&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ComplÃ¨tement diffÃ©rent&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Je prÃ©fÃ¨re tout refaire&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="2516.5" width="229.5" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--261" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="471" y="2766.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--262" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="2772.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--263" value="&lt;b&gt;2ï¸âƒ£ &lt;/b&gt;Similaire mais avec modifications" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267" y="2767.5" width="208" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--264" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="195.75" y="2818.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--266" value="Parfait ! Gardons ce qui marche í ½í±&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;í ½í´„ &lt;i&gt;&lt;b&gt;Configuration Rapide :&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;í ½í³ DÃ©part : Douala âœ…&lt;/div&gt;&lt;div&gt;í ½í³ Destination : YaoundÃ© âž¡ &lt;b&gt;Changer &lt;/b&gt;?&lt;/div&gt;&lt;div&gt;í ½í³‹ Contenu : VÃªtements âž¡ &lt;b&gt;Modifier &lt;/b&gt;?&lt;/div&gt;&lt;div&gt;âš–&amp;nbsp; Poids : 2kg âž¡ &lt;b&gt;Ajuster &lt;/b&gt;?&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;í ½í±¤&lt;/b&gt;&lt;/span&gt;Destinataire&amp;nbsp;: MARIE69990226200&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;âž¡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Modifier&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Que souhaitez-vous modifier ?&lt;/div&gt;&lt;div&gt;1ï¸âƒ£&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;La destination&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Le contenu du colis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Le poids estimÃ©&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4ï¸âƒ£ Le&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Destinataire&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tout est correct, continuer&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="2816.5" width="281.25" height="213.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--267" value="Bafoussam" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="3251.5" width="75.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--268" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="3250.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--269" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3256.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--270" value="í ¼í¾¯ Bafoussam&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Analyse Smart TchatPost :&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Distance : 273 km depuis Douala&lt;/div&gt;&lt;div&gt;- DÃ©lai habituel : 2-3 jours&lt;/div&gt;&lt;div&gt;- MÃ©tÃ©o : Pas de perturbations prÃ©vues&lt;/div&gt;&lt;div&gt;- Recommandation : Option Standard&amp;nbsp;&lt;/div&gt;&lt;div&gt;(2j - 2500 FCFA)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;í ½í³¦ &lt;b&gt;Vos options d&#39;envoi :&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1ï¸âƒ£&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½í²° &lt;b&gt;&lt;i&gt;Ã‰conomique &lt;/i&gt;&lt;/b&gt;(4-5j) - 1800 FCFA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;â­ &lt;b&gt;&lt;i&gt;Standard &lt;/i&gt;&lt;/b&gt;(2-3j) - 2500 FCFA [RECOMMANDÃ‰]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;âš¡ &lt;b&gt;&lt;i&gt;Express &lt;/i&gt;&lt;/b&gt;(24h) - 4000 FCFA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;í ½í²¡ &lt;b&gt;Astuce : &lt;/b&gt;87% de nos clients choisissent Standard pour Bafoussam !&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="214.75" y="3291.5" width="252.25" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--273" value="2ï¸âƒ£ Standard" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="389" y="3572.5" width="76.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--274" value="&lt;div&gt;&lt;div&gt;Excellent choix ! â­&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;í ¼í¿  &lt;b&gt;Mode de collecte&lt;/b&gt; :&lt;/div&gt;&lt;div&gt;1ï¸âƒ£&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½íºš Collecte Ã  domicile (+500 FCFA)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ¼í¿ª DÃ©pÃ´t en agence (gratuit)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½í³ Point relais proche de chez vous&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="3600.5" width="219.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--275" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&lt;/span&gt;&amp;nbsp;L&#39;envoi de Colis&lt;/div&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="2401.5" width="140" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--276" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="465" y="3050.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--277" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464.5" y="3056.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--278" value="&lt;b&gt;1ï¸âƒ£ &lt;/b&gt;La destination" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="359" y="3051.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--279" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="204.62" y="3092.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--280" value="í ½í³ Nouvelle destination ?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Suggestions basÃ©es sur vos contacts&lt;/i&gt;&lt;/b&gt; :&lt;/div&gt;&lt;div&gt;í ¼í¾¯ Bafoussam (envoyÃ© la semaine derniÃ¨re)&lt;/div&gt;&lt;div&gt;í ¼í¾¯ Bamenda&lt;/div&gt;&lt;div&gt;í ¼í¾¯ Garoua&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Ou tapez une nouvelle ville :&lt;/div&gt;&lt;div&gt;í ½í²¬ Ã‰crivez la ville de destination&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227.62" y="3090.5" width="249.38" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--281" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3571.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--282" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="469.5" y="3577.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--283" value="1ï¸âƒ£ Collecte Ã  domicile" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337" y="3711.5" width="127.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--284" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="469.5" y="3710.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--285" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="469" y="3716.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--286" value="&lt;div&gt;&lt;div&gt;í ½íºš Collecte&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ã  domicile&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;CrÃ©neaux disponibles aujourd&#39;hui :&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- 14h00 - 16h00 âœ… Disponible&lt;/div&gt;&lt;div&gt;- 16h00 - 18h00 âœ… Disponible&lt;/div&gt;&lt;div&gt;- 18h00 - 20h00 âŒ Complet&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Demain &lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- 09h00 - 11h00 âœ… Disponible&lt;/div&gt;&lt;div&gt;- 11h00 - 13h00 âœ… Disponible&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Votre prÃ©fÃ©rence ?&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="214.75" y="3750.5" width="219.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--287" value="1ï¸âƒ£ Aujourd&#39;hui 14h" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357" y="3941.5" width="107.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--288" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="469" y="3940.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--289" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468.5" y="3946.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--290" value="&lt;div&gt;RÃ©servÃ© : &lt;b&gt;Aujourd&#39;hui 14h-16h&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;í ½í³‹ &lt;b&gt;RÃ©capitulatif Final&lt;/b&gt; :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”&lt;/div&gt;&lt;div&gt;í ½í³¦ VÃªtements (2kg)&lt;/div&gt;&lt;div&gt;í ½í³ Douala â†’ Bafoussam&lt;/div&gt;&lt;div&gt;âš¡ Standard (2-3 jours)&lt;/div&gt;&lt;div&gt;í ½íºš Collecte : Aujourd&#39;hui 14h-16h&lt;/div&gt;&lt;div&gt;í ½í²° Total : 3000 FCFA (2500 + 500)&lt;/div&gt;&lt;div&gt;í ½í±¤ Destinataire&amp;nbsp;: MARIE69990226200&lt;/div&gt;&lt;div&gt;â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;í ¼í¾ &lt;b&gt;BONUS FidÃ©litÃ©&lt;/b&gt; : -300 FCFA appliquÃ©s !&lt;/div&gt;&lt;div&gt;í ½í²³ &lt;b&gt;Total final : 2700 FCFA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Mode de paiement ?&lt;/div&gt;&lt;div&gt;1ï¸âƒ£&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½í¿  Orange Money&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½í¿¡ MTN MoMo&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½í²³ Carte bancaire&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="3978.5" width="248.25" height="291.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--291" value="1ï¸âƒ£ Orange Money" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357" y="4272.5" width="103.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--292" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="465" y="4270.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--293" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464.5" y="4276.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--294" value="Pour effectuer votre paiement&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;1. Clickez sur le lien de paiment (en bas).&lt;/div&gt;&lt;div&gt;2. Entrez votre numero de telephone.&lt;/div&gt;&lt;div&gt;3. Confirmez votre identite avec le OTP recu par mail ou SMS.&lt;/div&gt;&lt;div&gt;4. Vous recevrez ensuite une popup sur votre mobile (ou en tapant #150# dans votre telephone) pour suivre les etapes et terminer le paiement.&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Lien de paiement :&lt;/b&gt; &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;i&gt;https://www.campost.cm/colis/paiement&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.88" y="4310.5" width="248.25" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--295" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2190" width="349" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--296" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cas d&#39;Usage 3 : &lt;b style=&quot;&quot;&gt;RÃ©ception de Colis&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1054.5" y="2200" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--297" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1334" y="2250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--298" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1319" y="2253" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--299" value="3. RÃ©ception de Colis" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2247" width="128" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--340" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="2380.5" width="310" height="2190" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--341" value="Pour poursuivre votre demande, veillez vous identifier avec votre identifiant postale :" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1084.5" y="2435.5" width="245.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--342" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="2445.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--343" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1061.5" y="2451.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--344" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1338" y="2482.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--345" value="&lt;b&gt;U&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1337.5" y="2488.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--346" value="&lt;b&gt;MARIE6999906262000&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1209" y="2483.5" width="131" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--347" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1061.5" y="2516.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--348" value="&lt;b&gt;T&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="2522.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--349" value="Bien &lt;b&gt;Marie&lt;/b&gt;,&lt;br&gt;&lt;i&gt;Assistance Intelligente activÃ©e&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BasÃ© sur vos envois prÃ©cÃ©dents, voici une recommandation :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;í ½í³ &lt;b&gt;Trajet habituel&lt;/b&gt; : Douala â†’ YaoundÃ©&lt;/div&gt;&lt;div&gt;í ½í³¦ &lt;b&gt;Type courant&lt;/b&gt; : VÃªtements/Documents&lt;/div&gt;&lt;div&gt;âš–&amp;nbsp; &amp;nbsp;&lt;b&gt;Poids moyen &lt;/b&gt;: 1-3 kg&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;C&#39;est pour un envoi similaire ?&lt;/div&gt;&lt;div&gt;1ï¸âƒ£&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Oui, exactement pareil&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Similaire mais avec modifications&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ComplÃ¨tement diffÃ©rent&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4ï¸âƒ£&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Je prÃ©fÃ¨re tout refaire&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1084.5" y="2516.5" width="229.5" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="pzknF2URaeMcYJWIp3Z--361" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3ï¸âƒ£&lt;/span&gt;&amp;nbsp;La rÃ©ception de Colis&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1084.5" y="2401.5" width="140" height="19" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
